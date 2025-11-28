@@ -1,0 +1,3 @@
+copy cosmetics.products from '"C:\Users\user\Desktop\Natural Cosmetics Shop project\tables\products_natural_cosmetics.csv"' delimiter ',' csv header;
+copy cosmetics.sales from '"C:\Users\user\Desktop\Natural Cosmetics Shop project\tables\sales_natural_cosmetics.csv"' delimiter ',' csv header;
+copy cosmetics.customers from '"C:\Users\user\Desktop\Natural Cosmetics Shop project\tables\customers_natural_cosmetics.csv"' delimiter ',' csv header;

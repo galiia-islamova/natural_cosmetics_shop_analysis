@@ -117,4 +117,4 @@ Galiia Islamova
 
 *email: galiya.is.98@gmail.com*
 
-*telegram: t.me/galiia_islamova*
+*telegram: https://t.me/galiia_islamova*

@@ -168,8 +168,8 @@
 - популярные продукты (popular products)
 
 
-## 8. Author
+## 8. Автор
 
-Galiia Islamova
+Галия Исламова
 
 *email: galiya.is.98@gmail.com*

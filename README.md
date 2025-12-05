@@ -1,6 +1,6 @@
 # Natural Cosmetics Shop Analysis
 
-[README на русском(https://github.com/galiia-islamova/natural_cosmetics_shop_analysis/blob/main/%D0%BD%D0%B0_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BCREADME.md) 
+[README на русском] (https://github.com/galiia-islamova/natural_cosmetics_shop_analysis/blob/main/%D0%BD%D0%B0_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BCREADME.md) 
 
 ## 1. Description
 

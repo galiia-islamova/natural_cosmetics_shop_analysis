@@ -2,7 +2,7 @@
 
 ## 1. Description
 
-This project analyzes a mock dataset of a natural cosmetics shop, exploring product performance, customer behavior, and sales patterns. Using SQL, Python, and Power BI, the analysis identifies key trends, top-selling categories, inventory patterns, and potential growth opportunities. The project includes data cleaning, exploratory analysis, visual dashboards, and structured documentation to demonstrate practical data-analysis skills in a retail and cosmetics context.
+This project analyzes a mock dataset of a natural cosmetics shop, exploring product performance, customer behavior, and sales patterns. Using SQL, Python, and Power BI, the analysis identifies key trends, top-selling categoriesю The project includes data cleaning, exploratory analysis, visual dashboards, and structured documentation to demonstrate practical data-analysis skills in a retail and cosmetics context.
 
 > ## DISCLAIMER
 

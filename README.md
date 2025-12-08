@@ -1,6 +1,6 @@
 # Natural Cosmetics Shop Analysis
 
-[README на русском] (./ru-README.md) 
+[README на русском](./ru-README.md)
 
 ## 1. Description
 

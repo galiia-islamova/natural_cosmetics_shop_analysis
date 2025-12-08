@@ -35,11 +35,11 @@
    
 2) SQL _(postgresql)_
 
-3) Power BI _(visualisation)_
+3) Power BI _(визуализация данных)_
 
-4) Mockaroo _(data generation)_
+4) Mockaroo _(генерация данных)_
 
-5) Jupiter notebook
+5) Jupiter notebook _(Python)_ 
 
 ## 4. Основыне шаги
 
